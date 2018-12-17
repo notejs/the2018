@@ -298,6 +298,6 @@ docker是之前就掌握的，理论实操都有，但是由于之前的公司�
 
 多说一句，年初的时候看了一条新闻，让我感触颇深[82-Year-Old Proves You're Never Too Old to Code](https://www.aarp.org/work/working-at-50-plus/info-2018/worlds-oldest-app-developer-fd.html) 。
 
-以上是我的2018年总结，如有任何建议意见可在[https://github.com/notejs/the2018](https://github.com/notejs/the2018)与我交流。
+以上是我的2018年总结，如有任何建议意见可在[https://github.com/notejs/the2018/issues](https://github.com/notejs/the2018/issues)与我交流。
 
 我的微信`lw20170313`，添加请注明您是谁，什么公司，什么职位。 
